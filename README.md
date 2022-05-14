@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning back end development
 - 💞️ I’m looking to collaborate on any web development jobs using react.
 - 📫 How to reach me:
-You can find on twitter or LinkedIn
+You can find on twitter[https://twitter.com/De-marauder] or LinkedIn
 
 
 <!---
