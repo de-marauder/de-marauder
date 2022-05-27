@@ -25,7 +25,11 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React.Js](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=react)&nbsp;
+![Next.Js](https://img.shields.io/badge/-Next.Js-05122A?style=flat&logo=next.js)&nbsp;
+![Express.Js](https://img.shields.io/badge/-Express.Js-05122A?style=flat&logo=express)&nbsp;
+![Node.Js](https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
