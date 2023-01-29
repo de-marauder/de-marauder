@@ -17,7 +17,7 @@
 </p>
 <br>
 
-![De-marauder's Activity Graph](https://activity-graph.herokuapp.com/graph?username=de-marauder&custom_title=De-marauder's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7).
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=de-marauder&layout=compact"/>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
