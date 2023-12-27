@@ -1,8 +1,9 @@
 <!-- <p align="center"><img src="animation.gif" width="35%"></p> -->
-
+<!--
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+De-marauder+%3C3;Software+Engineer;DevOps+Engineer;freelancer;Welcome+to+my+profile+!">
 </p>
+-->
 <!-- "https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+De'marauder+%3C3;Full stack+developer;freelancer;Welcome+to+my+profile+!" -->
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -10,12 +11,12 @@
 
 ### 📈 &nbsp;Contribution Statistics
 
-<br/>
+<!-- <br >
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=de-marauder&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=de-marauder&theme=blueberry&hide_border=true" />
+ <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=de-marauder&show_icons=true&theme=blueberry&hide_border=true" />
+ <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=de-marauder&theme=blueberry&hide_border=true" />
 </p>
-<br>
+<br> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=de-marauder&layout=compact"/>
 
