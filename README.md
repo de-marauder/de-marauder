@@ -5,11 +5,11 @@
 </p>
 -->
 <!-- "https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+De'marauder+%3C3;Full stack+developer;freelancer;Welcome+to+my+profile+!" -->
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<!-- <p  align="center"> -->
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              -->
+<!-- <br> -->
 
-### 📈 &nbsp;Contribution Statistics
+<!-- ### 📈 &nbsp;Contribution Statistics -->
 
 <!-- <br >
 <p align="left">
@@ -18,11 +18,11 @@
 </p>
 <br> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=de-marauder&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=de-marauder&layout=compact"/>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              -->
+<!-- <br> -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -52,9 +52,9 @@
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp; -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp; -->
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<!-- <p  align="center"> -->
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   -->          
+<!-- <br> -->
 
 ### :link: &nbsp;Contact Info
 
@@ -62,7 +62,6 @@
 <a href="https://de-marauder.vercel.app"><img src="https://img.shields.io/badge/-website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/obiajulu-ezike/"><img src="https://img.shields.io/badge/-Linkedin-3423A6?style=for-the-badge&logo=Linkedin&logoColor=blue"/></a>
 <a href="https://github.com/de-marauder"><img src="https://img.shields.io/badge/-Github-3423A6?style=for-the-badge&logo=Github&logoColor=black"/></a>
-<a href="https://www.fiverr.com/share/2ymygX"><img src="https://img.shields.io/badge/-Fiverr-3423A6?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 
 </p>
 
